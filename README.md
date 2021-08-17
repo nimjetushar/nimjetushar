@@ -1,4 +1,7 @@
-### Hi there 👋
+### How you Doin ?
+
+![](https://user-images.githubusercontent.com/16893368/129749614-03bc8cc7-6d59-42d0-ad81-83340143bfd8.gif)
+
 
 <!--
 **nimjetushar/nimjetushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
