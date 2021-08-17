@@ -1,6 +1,6 @@
 ### How you Doin ?
 
-![](https://user-images.githubusercontent.com/16893368/129749614-03bc8cc7-6d59-42d0-ad81-83340143bfd8.gif)
+![](https://github.com/nimjetushar/nimjetushar/blob/main/how_you_doin.gif?raw=true)
 
 
 <!--
