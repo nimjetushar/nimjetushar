@@ -6,8 +6,6 @@
   <img align="left" alt="Tushar's Hacker Rank" width="22px" src="https://github.com/simsausaurabh/Glancify-1/blob/master/Images/Hackerrank.png" />
 </a>
 
-<br />
-
 ![](https://komarev.com/ghpvc/?username=nimjetushar)
 
 <br/>
