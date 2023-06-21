@@ -3,7 +3,7 @@
   <img align="left" alt="Tushar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/tusharnimje21">
-  <img align="left" alt="Tushar's Hacker Rank" width="22px" src="https://github.com/simsausaurabh/Glancify-1/blob/master/Images/Hackerrank.png" />
+  <img align="left" alt="Tushar's Hacker Rank" width="22px" src="https://github.com/simsausaurabh/Glancify-1/blob/master/Images/Hackerrank (1).png" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=nimjetushar)
