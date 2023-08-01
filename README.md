@@ -1,6 +1,6 @@
 ### hey there 
 <a href="https://www.linkedin.com/in/tushar-nimje">
-  <img align="left" alt="Tushar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Tushar's LinkedIN" width="26px" src="https://github.com/simsausaurabh/Glancify-1/blob/master/Images/linkedin.png" />
 </a>
 <a href="https://www.hackerrank.com/tusharnimje21">
   <img align="left" alt="Tushar's Hacker Rank" width="22px" src="https://github.com/simsausaurabh/Glancify-1/blob/master/Images/Hackerrank (1).png" />
